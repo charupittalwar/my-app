@@ -3,6 +3,7 @@ import './App.css';
 
 import Sub from './components/Sub/Sub';
 import Add from './components/Add/Add';
+import Mul from './components/Mul/Mul';
 
 function App() {
   return (
