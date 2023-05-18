@@ -17,6 +17,7 @@ function App() {
     
     <Add  a="2" b = "3"></Add>
     <Sub c="5" d="8" />
+    <Mul />
         
   </div>
   );
