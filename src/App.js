@@ -10,9 +10,9 @@ function App() {
     <div>
     <h1 id ="c1">first project 1</h1>
 
-    <h2>first project 2</h2>
+    <h2 class="a1 ">first project 2</h2>
 
-    <h3>first project 3</h3>
+    <h3 class= "a1">first project 3</h3>
 
     
     <Add  a="2" b = "3"></Add>

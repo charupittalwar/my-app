@@ -1,4 +1,17 @@
 #c1{
   color: red;
-  border: 1px solid blue;
+  text-decoration: underline;
+}
+
+.a1 {
+
+  text-decoration: underline;
+
+  color:blueviolet;
+
+  text-transform: uppercase;
+
+  
+
+
 }
