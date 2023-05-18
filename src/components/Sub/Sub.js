@@ -5,7 +5,7 @@ const Sub = (abc) => {
 
     <div>
 
-        <p>this is sub component</p>
+        <p>this is sub component 1</p>
 
         <p>division = {parseInt(abc.c)/ parseInt(abc.d)}</p>
     </div>
